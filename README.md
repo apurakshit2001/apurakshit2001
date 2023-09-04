@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" alt="">
+
 <!--
 **apurakshit2001/apurakshit2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
