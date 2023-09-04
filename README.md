@@ -4,7 +4,7 @@
 </body>
 <img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" align="right" width= "500" height= "400" alt="">
 
-<img src="https://i.gifer.com/6tXM.gif" align="left" width= "500" height= "400" alt="">
+<img src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" align="left" width= "500" height= "400" alt="">
 
 <!--
 **apurakshit2001/apurakshit2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
