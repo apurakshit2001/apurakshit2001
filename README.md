@@ -2,7 +2,7 @@
 
 
 </body>
-<img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" align="right" width= "400" height= "600" alt="">
+<img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" align="right" width= "500" height= "400" alt="">
 
 <img src="https://i.gifer.com/6tXM.gif" align="left" width= "500" height= "400" alt="">
 
