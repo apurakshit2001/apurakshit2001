@@ -2,7 +2,9 @@
 
 
 </body>
-<img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" align="center" width= "1500" height= "600" alt="">
+<img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" align="right" width= "400" height= "600" alt="">
+
+<img src="[https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif](https://i.gifer.com/6tXM.gif)" align="left" width= "400" height= "600" alt="">
 
 <!--
 **apurakshit2001/apurakshit2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
