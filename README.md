@@ -4,7 +4,7 @@
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/apurakshit2001/weather-app/assets/128841242/fcfeceda-a379-4022-b215-9d1378f0b325)
 
 <h1 align="center">Hi 👋, I'm Arpan Rakshit 🌳 </h1>
-<h3 align="center">A passionate working student from India</h3>
+<h3 align="center">A passionate working student from India ☮</h3>
 
 <!--
 **apurakshit2001/apurakshit2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
