@@ -1,12 +1,10 @@
 ### Hi there , Yes that's me before and after..👋
 
 
-</body>
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/apurakshit2001/weather-app/assets/128841242/fcfeceda-a379-4022-b215-9d1378f0b325)
 
 
-<img src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" align="center" width= "500" height= "400" alt="">
 
-<img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" align="center" width= "500" height= "400" alt="">
 
 <!--
 **apurakshit2001/apurakshit2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
